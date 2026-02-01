@@ -21,13 +21,9 @@ This project predicts diabetes risk using a Deep Learning model on a health data
    - EarlyStopping to prevent overfitting
    - Validation AUC: 0.6953
 
-4. **Predictions & Submission**
-   - Generated predictions on the test set
-   - Created Kaggle-ready `submission.csv`
-
-5. **Visualization**
+4. **Visualization**
    - Loss and AUC plots for training and validation
 
-6. **Streamlit Deployment**
+5. **Streamlit Deployment**
    - Streamlit app prepared for Hugging Face Spaces
    - Users can input data and get diabetes probability
