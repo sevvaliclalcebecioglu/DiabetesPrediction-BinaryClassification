@@ -27,3 +27,4 @@ This project predicts diabetes risk using a Deep Learning model on a health data
 5. **Streamlit Deployment**
    - Streamlit app prepared for Hugging Face Spaces
    - Users can input data and get diabetes probability
+   - https://huggingface.co/spaces/sevvaliclal/DiabetesPredictionApp
